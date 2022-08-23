@@ -1,6 +1,6 @@
 # Standard - Collaboration
 
-Modularity adalah komunitas yang didasarkan dari keresahan mahasiswa/i TI UCA Mengenai kualitas programmer yang dinilai lambat dan menghambat dengan standar industri yang dibutuhkan.
+Modularity adalah komunitas yang didasarkan dari keresahan mahasiswa/i TI UCA Mengenai kualitas programmer yang dihasilkan perguruan tinggi yang dianggap(subyektif) tidak memenuhi standar industri yang dibutuhkan.
 
 ## Cara Berkontribusi
 
