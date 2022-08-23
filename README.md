@@ -7,7 +7,7 @@ Modularity adalah komunitas yang didasarkan dari keresahan mahasiswa/i TI UCA Me
 Berkontribusi dengan modularity memiliki beberapa standard agar proses pengembangan dan dokumentasi bisa seragam, hal ini memudahkan dalam maintenance.
 
 - Cari Projek yang ingin dikerjakan, lalu lakukan Fork Repository kedalam Repo Pribadi
-  image.png
+  ![image](https://user-images.githubusercontent.com/56821766/186122252-aec7ead3-4eb0-40bd-9470-490c4b1d53e1.png)
 
 - Ambil Issue yang sedang aktif, dan berikan komentar "WIP - Username"
 
