@@ -29,6 +29,10 @@ Contoh
 - fix-navbar-mobile
 - fix-responsive-mobile
 
+## Aturan Pull Request
+
+Coming Soon
+
 ## Notes
 
 - WIP = Work In Progress
