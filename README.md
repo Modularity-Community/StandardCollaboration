@@ -29,9 +29,16 @@ Contoh
 - fix-navbar-mobile
 - fix-responsive-mobile
 
-## Aturan Pull Request
+## Cara Pull Request
 
-Coming Soon
+- Klik Pull Request pada Fork Pribadi setelah selesai, klik button new pull request
+  ![image](https://user-images.githubusercontent.com/56821766/186129931-6146e7e7-eef4-4e02-baed-ce68ede1bf9e.png)
+- Sesuaikan dengan base repository dan head repository, setelah selesai klik button create repository
+  ![image](https://user-images.githubusercontent.com/56821766/186130276-44aa78be-6a50-492e-b1bb-f01b6a668ed5.png)
+- Isi keterangan Pull Request seperti berikut:
+  - Developer : @namakontributor Deskripsi : Perubahan yang dilakukan atau fix bug atau feature yang dikerjakan
+- Setelah semua selesai dilakukan, silahkan di commit
+  ![image](https://user-images.githubusercontent.com/56821766/186131108-2d70ab55-cd76-43fb-81b6-ffda0ba19f1c.png)
 
 ## Notes
 
